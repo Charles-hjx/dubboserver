@@ -10,6 +10,6 @@ import com.hjx.dubbo.interfaces.APIHello;
 public class HelloServiceImpl implements APIHello {
     public String sayHello() {
         System.out.println("helloWorld");
-        return "HELLOWORLD";
+        return "HELLOWORLD1";
     }
 }
